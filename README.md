@@ -9,4 +9,8 @@ To perform threat hunting, one can start by identifying potential threat resourc
 3. Carding Forums
 4. Darkweb Marketplaces
 5. Social Media Platform
-6. 
+
+
+
+
+                                ---------- Work in progress.....
